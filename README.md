@@ -8,7 +8,7 @@
   While the course provided solid theoretical knowledge, I believe there could be more focus on practical exercises and real-world projects. More in-depth examples of using OOP principles in larger projects would help reinforce these concepts.
 
 - **Additional Reflection**:  
-  This course sparked my interest in learning more about software design and architecture. It’s clear to me now how OOP can make code more organized, reusable, and scalable. I look forward to using these principles in future projects.
+  As a first-year student, this course has been a real eye-opener for me. I had no idea that programming could be so structured and powerful! Learning OOP made programming feel more organized and manageable, and I feel more confident about writing clean and scalable code. I look forward to diving deeper into coding as I progress in my studies.
 
 ---
 
@@ -20,7 +20,7 @@
   One area for improvement would be more hands-on practice with different database management systems, such as MySQL, PostgreSQL, and NoSQL databases. This would give students a broader perspective and help them choose the right DBMS for specific use cases.
 
 - **Additional Reflection**:  
-  I found working with databases to be extremely rewarding. I now appreciate the importance of efficient database design, especially for web applications where large amounts of data need to be processed quickly and accurately. I’m excited to explore more advanced topics like database optimization and cloud databases.
+  This was my first time working with databases, and it felt like a whole new world! I was amazed at how powerful databases are for storing and retrieving data efficiently. I still have a lot to learn, but I’m excited to use this knowledge in future projects, especially as I continue to develop my skills in web development and application design.
 
 ---
 
@@ -32,7 +32,7 @@
   I would suggest adding more practical exercises where students configure networks and simulate real-world networking scenarios. Lab exercises and group projects involving network setups and troubleshooting would greatly enhance the learning experience.
 
 - **Additional Reflection**:  
-  The course gave me a newfound appreciation for the complexities of modern networks. Learning about network security and encryption was particularly insightful, as it is critical in today’s world where cybersecurity threats are constantly evolving. I look forward to applying these concepts to secure communication systems in future projects.
+  I never realized how much goes on behind the scenes when we use the internet! This course opened my eyes to how networks work and how important they are for communication. I’m still wrapping my head around some of the technical details, but I’m excited to learn more as I continue my studies.
 
 ---
 
@@ -44,7 +44,7 @@
   The course could benefit from more real-world case studies that demonstrate how organizations have implemented and benefited from information systems. This would help contextualize the theoretical concepts and make them more relatable.
 
 - **Additional Reflection**:  
-  Working on my project for the MyUTM portal has been an eye-opening experience. It allowed me to apply the knowledge gained from this course and gave me a better understanding of the practical challenges involved in designing and optimizing information systems for large-scale use.
+  I never thought about how systems and technology are used behind the scenes to keep everything running smoothly in an organization. This course helped me understand the bigger picture of how information systems work. The MyUTM portal project made me realize how much impact technology can have on improving efficiency, and I’m excited to apply these ideas to other real-world problems.
 
 ---
 
@@ -56,9 +56,7 @@
   To improve the course, I would suggest incorporating more discussions on real-world cases where technology has played a key role in preventing or addressing corruption. Case studies would make the concepts more tangible and allow students to see how they can be applied in practice.
 
 - **Additional Reflection**:  
-  This course has made me more conscious of the ethical responsibilities that come with working in technology. I now recognize that as I move forward in my career, maintaining integrity and adhering to ethical standards will be just as important as technical expertise. I’m motivated to use my skills in ways that positively impact society.
+  This course made me realize how important it is to stay ethical, especially as a technology professional. I’ve always known integrity is important, but now I see how easily it can be compromised in the tech world. I feel more motivated to make sure that whatever I do in my career, I stay true to my values and help make the world a better place through technology.
 
 ---
-
-
 
