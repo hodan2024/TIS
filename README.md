@@ -1,6 +1,6 @@
 ## Reflections
 
-### 1. **SECJ1014 Programming Technique II**
+### 1. **Programming Technique II**
 - **What I Gained**:  
   In this course, I further developed my programming skills in C++ and expanded my knowledge in object-oriented programming (OOP). I learned about classes, inheritance, polymorphism, and other core OOP principles that will help me create more efficient and modular code. Understanding these concepts has enabled me to build better software solutions and tackle more complex coding challenges.
   
@@ -26,7 +26,7 @@
 
 ### 3. **Network Communication**
 - **What I Gained**:  
-  This course deepened my understanding of computer networks, focusing on protocols, IP addressing, routing, and network security. I gained hands-on experience in setting up and troubleshooting network connections. I also learned about different layers of network architecture (e.g., OSI model) and how data transmission works over various network types.
+  This course deepened my understanding of computer networks, focusing on protocols, IP addressing, routing, and network security. I gained hands-on experience about UTP Cabelling, wire shark and packet tracer. I also learned about different layers of network architecture (e.g., OSI model) and how data transmission works over various network types.
 
 - **Suggestions for Improvement**:  
   I would suggest adding more practical exercises where students configure networks and simulate real-world networking scenarios. Lab exercises and group projects involving network setups and troubleshooting would greatly enhance the learning experience.
@@ -38,13 +38,13 @@
 
 ### 4. **Technology and Information System**
 - **What I Gained**:  
-  This course provided valuable insights into how information systems are designed, managed, and implemented in organizations. I learned about workflow management, the role of technology in decision-making, and how information systems can streamline operations. My project to improve the MyUTM portal is a direct application of the concepts learned in this course, particularly in terms of database integration and system optimization.
+  This course provided valuable insights such as software,hardware,information flow,security, ethics and cloud computing.
 
 - **Suggestions for Improvement**:  
   The course could benefit from more real-world case studies that demonstrate how organizations have implemented and benefited from information systems. This would help contextualize the theoretical concepts and make them more relatable.
 
 - **Additional Reflection**:  
-  I never thought about how systems and technology are used behind the scenes to keep everything running smoothly in an organization. This course helped me understand the bigger picture of how information systems work. The MyUTM portal project made me realize how much impact technology can have on improving efficiency, and I’m excited to apply these ideas to other real-world problems.
+  I never thought about how systems and technology are used behind the scenes to keep everything running smoothly in an organization. This course helped me understand the bigger picture of how information systems work. The mindsync project made me realize how much impact technology can have on improving efficiency, and I’m excited to apply these ideas to other real-world problems.
 
 ---
 
