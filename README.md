@@ -1,7 +1,7 @@
 # TIS
-HI there!
-Iam a first year Software Engineering student.
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+
+<h2 align="left">Hi 👋! My name is HODAN HASSAN ABDILAHI and I'm a first year Software Engineering student, from faculty of computing.</h2>
 
 ###
 
